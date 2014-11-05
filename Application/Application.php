@@ -2,8 +2,8 @@
 
 namespace Application;
 
-use Application\Event\Pubsub;
-use Application\Factory\Log;
+use \Application\Event\Pubsub;
+use \Application\Factory\Log;
 
 class Application
 {

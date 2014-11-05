@@ -2,7 +2,7 @@
 
 namespace Application\Event;
 
-use Application\Event\IEvent;
+use \Application\Event\IEvent;
 
 class Pubsub implements IEvent {
 
